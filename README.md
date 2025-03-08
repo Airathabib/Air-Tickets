@@ -1,6 +1,5 @@
 # Search-Fly-Tickets
 
-
 ## Установка
 
 1. Склонируйте репозиторий: `git clone https://github.com/Airathabib/Search-Fly-Tickets`
@@ -9,4 +8,5 @@
 
 ## Запуск
 
-Запустите проект: `npm run dev`
+Запустите сервер командой: `npm run server`;
+Запустите проект:`npm run dev`
